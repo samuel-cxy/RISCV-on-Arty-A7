@@ -1,4 +1,6 @@
-A 5-state RV32I multicycle CPU: supporting 7 instructions, memory interfaces, and LED MMIO.
+A 5-state RV32I multicycle CPU:
+- Written in SystemVerilog and implemented on Arty A7 FPGA
+- Supports 7 instructions, memory interfaces, and LED MMIO.
 - Included a SystemVerilog testbench executing 8 programs with assertions for x0=0, RegWrite-in-WB, and
 store/PC safety.
 - Runs an LED counter loop loading through a HEX file.
