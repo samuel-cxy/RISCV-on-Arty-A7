@@ -1,0 +1,62 @@
+Vivado Simulator v2025.1.0
+Copyright 1986-2022 Xilinx, Inc. All Rights Reserved.
+Copyright 2022-2025 Advanced Micro Devices, Inc. All Rights Reserved.
+Running: D:/Xilinx/2025.1/Vivado/bin/unwrapped/win64.o/xelab.exe --incr --debug typical --relax --mt 2 -L xil_defaultlib -L uvm -L unisims_ver -L unimacro_ver -L secureip --snapshot tb_regress_day6_behav xil_defaultlib.tb_regress_day6 xil_defaultlib.glbl -log elaborate.log 
+Using 2 slave threads.
+Starting static elaboration
+Pass Through NonSizing Optimizer
+WARNING: [VRFC 10-8967] first argument of $fatal is invalid; expected 0, 1 or 2 [C:/Users/samue/Documents/Arty-7-100T/RISC-V/RISC-V.srcs/sim_1/new/tb_regress_day6.sv:135]
+WARNING: [VRFC 10-8967] first argument of $fatal is invalid; expected 0, 1 or 2 [C:/Users/samue/Documents/Arty-7-100T/RISC-V/RISC-V.srcs/sim_1/new/tb_regress_day6.sv:136]
+WARNING: [VRFC 10-8967] first argument of $fatal is invalid; expected 0, 1 or 2 [C:/Users/samue/Documents/Arty-7-100T/RISC-V/RISC-V.srcs/sim_1/new/tb_regress_day6.sv:137]
+WARNING: [VRFC 10-8967] first argument of $fatal is invalid; expected 0, 1 or 2 [C:/Users/samue/Documents/Arty-7-100T/RISC-V/RISC-V.srcs/sim_1/new/tb_regress_day6.sv:138]
+WARNING: [VRFC 10-8967] first argument of $fatal is invalid; expected 0, 1 or 2 [C:/Users/samue/Documents/Arty-7-100T/RISC-V/RISC-V.srcs/sim_1/new/tb_regress_day6.sv:148]
+WARNING: [VRFC 10-8967] first argument of $fatal is invalid; expected 0, 1 or 2 [C:/Users/samue/Documents/Arty-7-100T/RISC-V/RISC-V.srcs/sim_1/new/tb_regress_day6.sv:149]
+WARNING: [VRFC 10-8967] first argument of $fatal is invalid; expected 0, 1 or 2 [C:/Users/samue/Documents/Arty-7-100T/RISC-V/RISC-V.srcs/sim_1/new/tb_regress_day6.sv:150]
+WARNING: [VRFC 10-8967] first argument of $fatal is invalid; expected 0, 1 or 2 [C:/Users/samue/Documents/Arty-7-100T/RISC-V/RISC-V.srcs/sim_1/new/tb_regress_day6.sv:160]
+WARNING: [VRFC 10-8967] first argument of $fatal is invalid; expected 0, 1 or 2 [C:/Users/samue/Documents/Arty-7-100T/RISC-V/RISC-V.srcs/sim_1/new/tb_regress_day6.sv:161]
+WARNING: [VRFC 10-8967] first argument of $fatal is invalid; expected 0, 1 or 2 [C:/Users/samue/Documents/Arty-7-100T/RISC-V/RISC-V.srcs/sim_1/new/tb_regress_day6.sv:172]
+WARNING: [VRFC 10-8967] first argument of $fatal is invalid; expected 0, 1 or 2 [C:/Users/samue/Documents/Arty-7-100T/RISC-V/RISC-V.srcs/sim_1/new/tb_regress_day6.sv:173]
+WARNING: [VRFC 10-8967] first argument of $fatal is invalid; expected 0, 1 or 2 [C:/Users/samue/Documents/Arty-7-100T/RISC-V/RISC-V.srcs/sim_1/new/tb_regress_day6.sv:184]
+WARNING: [VRFC 10-8967] first argument of $fatal is invalid; expected 0, 1 or 2 [C:/Users/samue/Documents/Arty-7-100T/RISC-V/RISC-V.srcs/sim_1/new/tb_regress_day6.sv:196]
+WARNING: [VRFC 10-8967] first argument of $fatal is invalid; expected 0, 1 or 2 [C:/Users/samue/Documents/Arty-7-100T/RISC-V/RISC-V.srcs/sim_1/new/tb_regress_day6.sv:206]
+WARNING: [VRFC 10-8967] first argument of $fatal is invalid; expected 0, 1 or 2 [C:/Users/samue/Documents/Arty-7-100T/RISC-V/RISC-V.srcs/sim_1/new/tb_regress_day6.sv:220]
+WARNING: [VRFC 10-8967] first argument of $fatal is invalid; expected 0, 1 or 2 [C:/Users/samue/Documents/Arty-7-100T/RISC-V/RISC-V.srcs/sim_1/new/cpu_assertions_day6.sv:29]
+WARNING: [VRFC 10-8967] first argument of $fatal is invalid; expected 0, 1 or 2 [C:/Users/samue/Documents/Arty-7-100T/RISC-V/RISC-V.srcs/sim_1/new/cpu_assertions_day6.sv:37]
+WARNING: [VRFC 10-8967] first argument of $fatal is invalid; expected 0, 1 or 2 [C:/Users/samue/Documents/Arty-7-100T/RISC-V/RISC-V.srcs/sim_1/new/cpu_assertions_day6.sv:45]
+WARNING: [VRFC 10-8967] first argument of $fatal is invalid; expected 0, 1 or 2 [C:/Users/samue/Documents/Arty-7-100T/RISC-V/RISC-V.srcs/sim_1/new/cpu_assertions_day6.sv:47]
+WARNING: [VRFC 10-8967] first argument of $fatal is invalid; expected 0, 1 or 2 [C:/Users/samue/Documents/Arty-7-100T/RISC-V/RISC-V.srcs/sim_1/new/cpu_assertions_day6.sv:67]
+Completed static elaboration
+INFO: [XSIM 43-4329] Assuming default value 1 for the first arguement of $fatal at Line 29, File C:/Users/samue/Documents/Arty-7-100T/RISC-V/RISC-V.srcs/sim_1/new/cpu_assertions_day6.sv
+INFO: [XSIM 43-4329] Assuming default value 1 for the first arguement of $fatal at Line 37, File C:/Users/samue/Documents/Arty-7-100T/RISC-V/RISC-V.srcs/sim_1/new/cpu_assertions_day6.sv
+INFO: [XSIM 43-4329] Assuming default value 1 for the first arguement of $fatal at Line 45, File C:/Users/samue/Documents/Arty-7-100T/RISC-V/RISC-V.srcs/sim_1/new/cpu_assertions_day6.sv
+INFO: [XSIM 43-4329] Assuming default value 1 for the first arguement of $fatal at Line 47, File C:/Users/samue/Documents/Arty-7-100T/RISC-V/RISC-V.srcs/sim_1/new/cpu_assertions_day6.sv
+INFO: [XSIM 43-4329] Assuming default value 1 for the first arguement of $fatal at Line 67, File C:/Users/samue/Documents/Arty-7-100T/RISC-V/RISC-V.srcs/sim_1/new/cpu_assertions_day6.sv
+INFO: [XSIM 43-4329] Assuming default value 1 for the first arguement of $fatal at Line 135, File C:/Users/samue/Documents/Arty-7-100T/RISC-V/RISC-V.srcs/sim_1/new/tb_regress_day6.sv
+INFO: [XSIM 43-4329] Assuming default value 1 for the first arguement of $fatal at Line 136, File C:/Users/samue/Documents/Arty-7-100T/RISC-V/RISC-V.srcs/sim_1/new/tb_regress_day6.sv
+INFO: [XSIM 43-4329] Assuming default value 1 for the first arguement of $fatal at Line 137, File C:/Users/samue/Documents/Arty-7-100T/RISC-V/RISC-V.srcs/sim_1/new/tb_regress_day6.sv
+INFO: [XSIM 43-4329] Assuming default value 1 for the first arguement of $fatal at Line 138, File C:/Users/samue/Documents/Arty-7-100T/RISC-V/RISC-V.srcs/sim_1/new/tb_regress_day6.sv
+INFO: [XSIM 43-4329] Assuming default value 1 for the first arguement of $fatal at Line 148, File C:/Users/samue/Documents/Arty-7-100T/RISC-V/RISC-V.srcs/sim_1/new/tb_regress_day6.sv
+INFO: [XSIM 43-4329] Assuming default value 1 for the first arguement of $fatal at Line 149, File C:/Users/samue/Documents/Arty-7-100T/RISC-V/RISC-V.srcs/sim_1/new/tb_regress_day6.sv
+INFO: [XSIM 43-4329] Assuming default value 1 for the first arguement of $fatal at Line 150, File C:/Users/samue/Documents/Arty-7-100T/RISC-V/RISC-V.srcs/sim_1/new/tb_regress_day6.sv
+INFO: [XSIM 43-4329] Assuming default value 1 for the first arguement of $fatal at Line 160, File C:/Users/samue/Documents/Arty-7-100T/RISC-V/RISC-V.srcs/sim_1/new/tb_regress_day6.sv
+INFO: [XSIM 43-4329] Assuming default value 1 for the first arguement of $fatal at Line 161, File C:/Users/samue/Documents/Arty-7-100T/RISC-V/RISC-V.srcs/sim_1/new/tb_regress_day6.sv
+INFO: [XSIM 43-4329] Assuming default value 1 for the first arguement of $fatal at Line 172, File C:/Users/samue/Documents/Arty-7-100T/RISC-V/RISC-V.srcs/sim_1/new/tb_regress_day6.sv
+INFO: [XSIM 43-4329] Assuming default value 1 for the first arguement of $fatal at Line 173, File C:/Users/samue/Documents/Arty-7-100T/RISC-V/RISC-V.srcs/sim_1/new/tb_regress_day6.sv
+INFO: [XSIM 43-4329] Assuming default value 1 for the first arguement of $fatal at Line 184, File C:/Users/samue/Documents/Arty-7-100T/RISC-V/RISC-V.srcs/sim_1/new/tb_regress_day6.sv
+INFO: [XSIM 43-4329] Assuming default value 1 for the first arguement of $fatal at Line 196, File C:/Users/samue/Documents/Arty-7-100T/RISC-V/RISC-V.srcs/sim_1/new/tb_regress_day6.sv
+INFO: [XSIM 43-4329] Assuming default value 1 for the first arguement of $fatal at Line 206, File C:/Users/samue/Documents/Arty-7-100T/RISC-V/RISC-V.srcs/sim_1/new/tb_regress_day6.sv
+INFO: [XSIM 43-4329] Assuming default value 1 for the first arguement of $fatal at Line 220, File C:/Users/samue/Documents/Arty-7-100T/RISC-V/RISC-V.srcs/sim_1/new/tb_regress_day6.sv
+Starting simulation data flow analysis
+WARNING: [XSIM 43-4100] "C:/Users/samue/Documents/Arty-7-100T/RISC-V/RISC-V.sim/sim_1/behav/xsim/glbl.v" Line 6. Module glbl has a timescale but at least one module in design doesn't have timescale.
+WARNING: [XSIM 43-4100] "C:/Users/samue/Documents/Arty-7-100T/RISC-V/RISC-V.sim/sim_1/behav/xsim/glbl.v" Line 6. Module glbl has a timescale but at least one module in design doesn't have timescale.
+Completed simulation data flow analysis
+Time Resolution for simulation is 1ps
+Compiling module xil_defaultlib.regfile32
+Compiling module xil_defaultlib.alu
+Compiling module xil_defaultlib.cpu_core
+Compiling module xil_defaultlib.imem_bram
+Compiling module xil_defaultlib.dmem_mmio
+Compiling module xil_defaultlib.cpu_assertions_day6
+Compiling module xil_defaultlib.tb_regress_day6
+Compiling module xil_defaultlib.glbl
+Built simulation snapshot tb_regress_day6_behav
